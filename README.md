@@ -31,7 +31,7 @@ If you wish to contribute to our content, please contact one of us at:
 ## Links to Application
 
 - Here is the link to the repo: [smarr2198/repo](https://github.com/smarr2198/BookSearch-MERN)
-- Here is the link to the pages: [smarr2198/heroku](https://book-search-smarr2198.herokuapp.com/)
+- Here is the link to the heroku: [smarr2198/heroku](https://book-search-smarr2198.herokuapp.com/)
 
 ## Questions
 
